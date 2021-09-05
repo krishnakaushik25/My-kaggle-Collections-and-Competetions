@@ -1,6 +1,7 @@
 
 #### [The 3rd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m2019)
 
+Temporal localization of topics within video
 
 [Forum](https://www.kaggle.com/c/youtube8m2019/forums)
 
@@ -19,9 +20,9 @@ Models Used: NeXtVLAD, LightNetVLAD, GatedDBOF, SoftDBOF,NetFV, GRU, ResNetLike
 * [7th place solution](https://www.kaggle.com/c/youtube8m2019/discussion/112349)
  Models Used: NeXtVLAD ,context-gated DBoF, mixture-ofexperts
  
-Type: video data, object detection	
+**Type**: video data, object detection	
 
-Evaluation: Mean Average Precision @ K (MAP@K)
+**Evaluation**: Mean Average Precision @ K (MAP@K)
 
 A python implementation of MAP@K can be found at [youtube-8m's github](https://github.com/google/youtube-8m/blob/master/mean_average_precision_calculator.py)
 
@@ -34,9 +35,9 @@ Can you create a constrained-size model to predict video labels?
 
 * [3rd place solution](https://www.kaggle.com/c/youtube8m2018/discussion/63223)
 
-Type: Multiclass Classification
+**Type**: Multiclass Classification
 
-Evaluation:  Global Average Precision GAP 
+**Evaluation**:  Global Average Precision GAP 
 
 A python implementation of GAP can be found at youtube-8m's [github](https://github.com/google/youtube-8m/blob/master/average_precision_calculator.py#L179) or the [overview](https://www.kaggle.com/c/youtube8m-2018/overview/evaluation) can be seen in the evaluation kaggle page 
 
@@ -55,6 +56,6 @@ Repositories
 
 * [5th place solution](https://github.com/mpekalski/Y8M)
 
-Type: Multiclass Classification
+**Type**: Multiclass Classification
 
-Evaluation:  Global Average Precision GAP 
+**Evaluation**:  Global Average Precision GAP 
