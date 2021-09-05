@@ -30,10 +30,9 @@ A python implementation of MAP@K can be found at [youtube-8m's github](https://g
 Can you create a constrained-size model to predict video labels?
 
 [Forum](https://www.kaggle.com/c/youtube8m2018/forums)
-* [1st place solution]
-(https://www.kaggle.com/c/youtube8m2018/discussion/62781)
-* [3rd place solution]
-(https://www.kaggle.com/c/youtube8m2018/discussion/63223)
+* [1st place solution](https://www.kaggle.com/c/youtube8m2018/discussion/62781)
+
+* [3rd place solution](https://www.kaggle.com/c/youtube8m2018/discussion/63223)
 
 Type: Multiclass Classification
 
